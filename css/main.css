@@ -1,3 +1,6 @@
+body{
+	background: url('http://oi60.tinypic.com/2ebvpzr.jpg') repeat center center fixed;
+}
 #gen_form { 
     text-shadow:0 1px 0 #FFF;
     border-radius:4px;
